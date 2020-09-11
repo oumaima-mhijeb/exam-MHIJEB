@@ -1,0 +1,16 @@
+.image{
+    width: 100%;
+    height: 300px;
+}
+.icons{
+    width: 15px;
+    height: 15px;
+}
+.form{
+    padding: 8px;
+    text-align: right;
+    margin-right: 50px;
+}
+#big-data{
+    height: 160px;
+}
